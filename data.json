@@ -1,0 +1,43 @@
+[
+    {
+    "id": 1,
+    "name": "Paul Oluwabukunmi",
+    "username": "@paul",
+    "email": "paulshotolu@gmail.com",
+    "points": 24,
+    "status": "gold"
+    
+},
+{
+    "id": 2,
+    "name": "Joseph Kalu",
+    "username": "@BigJoe",
+    "email": "mrjosephkalu@gmail.com",
+    "points": 23,
+    "status": "Silver"
+},
+{
+    "id": 3,
+    "name": "Dikamsi Young Udochi",
+    "username": "@dikamsi",
+    "email": "youngudochi15@gmail.com",
+    "points": 19,
+    "status": "Bronze"
+},
+{
+    "id": 4,
+    "name": "Udumukwu Daniel",
+    "username": "@Nonso",
+    "email": "udanny6@gmail.com",
+    "points": 18,
+    "status": ""
+},
+{
+    "id": 5,
+    "name": "Juliana Orji",
+    "username": "@juliaorji",
+    "email": "udanny6@gmail.com",
+    "points": 16,
+    "status": ""
+}
+]
